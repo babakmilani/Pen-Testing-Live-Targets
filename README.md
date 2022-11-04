@@ -1,6 +1,11 @@
 # Pen-Testing-Live-Targets
 Capture The Flag Assignments Codepath
 
+For this assignment, you will attack three live targets, each of which is a slightly modified version of the same web application, Globitek. The three targets are therefore mostly identical. However, each target has been given a different color menu bar—blue, green, red—and each one has two different security vulnerabilities.
+
+Your challenge is to attempt to find and exploit the vulnerabilities. The goal is to identify which two vulnerabilities the blue target has, which two vulnerabilities the green target has, and which two vulnerabilities the red target has.
+
+-------------------------------------------------
 
 PASSWORD ENUMERATION GREEN TARGET
 
